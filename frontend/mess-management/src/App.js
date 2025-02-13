@@ -18,7 +18,7 @@
 import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import AuthProvider from "./Auth/authProvider";
-import RoutesConfig from "./RoutesConfig";
+import RoutesConfig from "./RoutesConfig";// kanak
 
 function App() {
   return (
